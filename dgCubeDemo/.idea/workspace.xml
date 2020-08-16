@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d525cf1-9304-4054-b2a4-0bdb73ff2f01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g0BlWnE5nRWhS7XbXllcdYtirU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgCubeDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d525cf1-9304-4054-b2a4-0bdb73ff2f01" name="Default Changelist" comment="" />
+      <created>1597241780977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597241780977</updated>
+      <workItem from="1597241782780" duration="490000" />
+      <workItem from="1597280884553" duration="6015000" />
+      <workItem from="1597366322545" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="188" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597328942795">
+      <screen x="0" y="23" width="2560" height="1007" />
+    </state>
+    <state x="405" y="188" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1007@0.23.2560.1007" timestamp="1597328942795" />
+    <state width="1407" height="273" key="GridCell.Tab.0.bottom" timestamp="1597333672939">
+      <screen x="0" y="23" width="2560" height="995" />
+    </state>
+    <state width="812" height="273" key="GridCell.Tab.0.bottom/0.23.2560.1007@0.23.2560.1007" timestamp="1597330535867" />
+    <state width="1407" height="273" key="GridCell.Tab.0.bottom/0.23.2560.995@0.23.2560.995" timestamp="1597333672939" />
+    <state width="1407" height="273" key="GridCell.Tab.0.center" timestamp="1597333672938">
+      <screen x="0" y="23" width="2560" height="995" />
+    </state>
+    <state width="812" height="273" key="GridCell.Tab.0.center/0.23.2560.1007@0.23.2560.1007" timestamp="1597330535866" />
+    <state width="1407" height="273" key="GridCell.Tab.0.center/0.23.2560.995@0.23.2560.995" timestamp="1597333672938" />
+    <state width="1407" height="273" key="GridCell.Tab.0.left" timestamp="1597333672938">
+      <screen x="0" y="23" width="2560" height="995" />
+    </state>
+    <state width="812" height="273" key="GridCell.Tab.0.left/0.23.2560.1007@0.23.2560.1007" timestamp="1597330535866" />
+    <state width="1407" height="273" key="GridCell.Tab.0.left/0.23.2560.995@0.23.2560.995" timestamp="1597333672938" />
+    <state width="1407" height="273" key="GridCell.Tab.0.right" timestamp="1597333672939">
+      <screen x="0" y="23" width="2560" height="995" />
+    </state>
+    <state width="812" height="273" key="GridCell.Tab.0.right/0.23.2560.1007@0.23.2560.1007" timestamp="1597330535866" />
+    <state width="1407" height="273" key="GridCell.Tab.0.right/0.23.2560.995@0.23.2560.995" timestamp="1597333672939" />
+    <state x="95" y="258" key="SettingsEditor" timestamp="1597330165197">
+      <screen x="0" y="23" width="2560" height="1007" />
+    </state>
+    <state x="1077" y="169" key="SettingsEditor/0.23.2560.1006@0.23.2560.1006" timestamp="1597316290427" />
+    <state x="95" y="258" key="SettingsEditor/0.23.2560.1007@0.23.2560.1007" timestamp="1597330165197" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1597331571762">
+      <screen x="0" y="23" width="2560" height="1007" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/0.23.2560.1007@0.23.2560.1007" timestamp="1597331571762" />
+    <state x="1261" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1597592684437">
+      <screen x="0" y="23" width="2560" height="997" />
+    </state>
+    <state x="1261" y="362" key="com.intellij.ide.util.TipDialog/0.23.2560.1005@0.23.2560.1005" timestamp="1597281126234" />
+    <state x="1261" y="359" key="com.intellij.ide.util.TipDialog/0.23.2560.997@0.23.2560.997" timestamp="1597592684437" />
+    <state x="389" y="245" key="search.everywhere.popup" timestamp="1597331567020">
+      <screen x="0" y="23" width="2560" height="1007" />
+    </state>
+    <state x="389" y="245" key="search.everywhere.popup/0.23.2560.1007@0.23.2560.1007" timestamp="1597331567020" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dgCubeDemo$testString.coverage" NAME="testString Coverage Results" MODIFIED="1597330535858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
