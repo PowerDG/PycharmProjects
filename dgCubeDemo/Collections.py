@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # outhor:xinlan time:
 
-#  ===  列表----[ ]
+#  ===5、列表----[ ]
 nameList = ['猴子', '马云', '王健林', '马化腾']
 
 nameLen = len(nameList)
@@ -23,7 +23,7 @@ nameList[0] = '孙悟空'
 
 print('修改之后的列表是', nameList)
 
-# ===   定义元组
+# === 6、元组----小括号（）
 
 gafataTuple = ('腾讯', '阿里巴巴', '苹果', '谷歌', 'FB', '亚马逊')
 
@@ -37,7 +37,7 @@ print('元组的长度是：', gafataLen)
 
 print('第1个元素的值', gafataTuple[0])
 
-# List有序、可重复，Set无序，不能重复的
+# 7、集合----花括号{ }List有序、可重复，Set无序，不能重复的
 
 # ===   定义：集合（sets）是不重复的容器
 
