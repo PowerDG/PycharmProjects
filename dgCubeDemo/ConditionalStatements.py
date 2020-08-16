@@ -15,6 +15,8 @@ switch = {
     "c":lambda x:x**x
 }
 try:
-    swtich["c"](6)
+    print(switch["a"](6))
+    print(switch["b"](6))
+    print(switch["c"](6))
 except KeyError as e:
     pass
