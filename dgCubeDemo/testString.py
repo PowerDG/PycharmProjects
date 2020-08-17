@@ -56,7 +56,6 @@ print('元组的长度是：', gafataLen)
 
 print('第1个元素的值', gafataTuple[0])
 
-
 # === 7、集合----花括号{ }  定义：集合（sets）是不重复的容器
 #
 # List有序、可重复，Set无序，不能重复的

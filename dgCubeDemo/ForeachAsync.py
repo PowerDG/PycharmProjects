@@ -8,7 +8,6 @@ print('12.1、单字符串循环')
 eatList = ['吃第1次饭', '吃第2次饭', '吃第3次饭']
 
 for i in eatList:
-
     print(i)
 
 # 12.2、对字典进行循环
@@ -27,7 +26,6 @@ gafataDict = {'腾讯': 'HK:00700',
               '亚马逊': 'AMZA'}
 
 for key, value in gafataDict.items():
-
     newValue = value.upper()
 
     gafataDict[key] = newValue
@@ -54,10 +52,8 @@ gafataDict = {'腾讯': 'HK:00700',
 
 for key, value in gafataDict.items():
 
-    if(key == '苹果'):
-
+    if key == '苹果':
         continue
-
 
     print(gafataDict)
 
@@ -81,10 +77,9 @@ number = 0
 
 for key, value in gafataDict.items():
 
-    number = number+1
+    number = number + 1
 
-    if(key == '苹果'):
-
+    if key == '苹果':
         # print('查找', key, '公司的股票代码是：', value)
 
         break
