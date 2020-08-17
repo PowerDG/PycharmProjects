@@ -540,3 +540,7 @@ dmypy.json
 .pyre/
 
 .DS_Store
+.idea/PycharmProjects.iml
+.idea/misc.xml
+.idea/misc.xml
+.idea/PycharmProjects.iml
