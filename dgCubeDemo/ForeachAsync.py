@@ -55,7 +55,7 @@ for key, value in gafataDict.items():
     if key == '苹果':
         continue
 
-    print(gafataDict)
+    print(key, '\t\t', value)
 
 # 12.4、break用于退同整个循环
 
